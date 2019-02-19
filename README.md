@@ -1,6 +1,6 @@
 # Web_and_HTML_Screen_Scraping
 
-Purpose: practice on BeautifulSoup and data analysis
+Data scraping and visualization with Python BeautifulSoup.
 
 Data source: Top500 SuperComputer Web site at https://www.top500.org/list/2018/06/
 
