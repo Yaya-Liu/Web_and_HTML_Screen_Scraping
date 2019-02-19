@@ -1,6 +1,6 @@
 # Web_and_HTML_Screen_Scraping
 
-Data scraping and visualization with Python BeautifulSoup.
+Data scraping and visualization with Python.
 
 Data source: Top500 SuperComputer Web site at https://www.top500.org/list/2018/06/
 
