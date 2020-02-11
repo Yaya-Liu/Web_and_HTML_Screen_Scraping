@@ -1,0 +1,501 @@
+,Rank,Site,System,Cores,RMax,RPeak,Power,Country
+0,1,DOE/SC/Oak Ridge National LaboratoryUnited States,IBM,2282544.0,122300.0,187659.3,8806.0,United States
+1,2,National Supercomputing Center in WuxiChina,NRCPC,10649600.0,93014.6,125435.9,15371.0,China
+2,3,DOE/NNSA/LLNLUnited States,IBM,1572480.0,71610.0,119193.6,,United States
+3,4,National Super Computer Center in GuangzhouChina,NUDT,4981760.0,61444.5,100678.7,18482.0,China
+4,5,National Institute of Advanced Industrial Science and Technology (AIST)Japan,Fujitsu,391680.0,19880.0,32576.6,1649.0,Japan
+5,6,Swiss National Supercomputing Centre (CSCS)Switzerland,CrayInc.,361760.0,19590.0,25326.3,2272.0,Switzerland
+6,7,DOE/SC/Oak Ridge National LaboratoryUnited States,CrayInc.,560640.0,17590.0,27112.5,8209.0,United States
+7,8,DOE/NNSA/LLNLUnited States,IBM,1572864.0,17173.2,20132.7,7890.0,United States
+8,9,DOE/NNSA/LANL/SNLUnited States,CrayInc.,979968.0,14137.3,43902.6,3844.0,United States
+9,10,DOE/SC/LBNL/NERSCUnited States,CrayInc.,622336.0,14014.7,27880.7,3939.0,United States
+10,11,Korea Institute of Science and Technology InformationKorea South,CrayInc.,570020.0,13929.3,25705.9,,"Korea, South"
+11,12,Joint Center for Advanced High Performance ComputingJapan,Fujitsu,556104.0,13554.6,24913.5,2719.0,Japan
+12,13,Eni S.p.A.Italy,HPE,253600.0,12210.0,18621.1,1320.0,Italy
+13,14,Commissariat a l'Energie Atomique (CEA)France,BullAtosGroup,561408.0,11965.5,23396.4,3178.0,France
+14,15,Texas Advanced Computing Center/Univ. of TexasUnited States,DellEMC,367024.0,10680.7,18309.2,,United States
+15,16,RIKEN Advanced Institute for Computational Science (AICS)Japan,Fujitsu,705024.0,10510.0,11280.4,12660.0,Japan
+16,17,DOE/SC/Argonne National LaboratoryUnited States,IBM,786432.0,8586.6,10066.3,3945.0,United States
+17,18,CINECAItaly,Lenovo,312936.0,8413.1,16212.9,,Italy
+18,19,GSIC Center Tokyo Institute of TechnologyJapan,HPE,135828.0,8125.0,12127.1,792.0,Japan
+19,20,United Kingdom Meteorological OfficeUnited Kingdom,CrayInc.,241920.0,7038.9,8128.5,,United Kingdom
+20,21,DOE/SC/Argonne National LaboratoryUnited States,CrayInc.,280320.0,6920.9,11661.3,,United States
+21,22,Barcelona Supercomputing CenterSpain,Lenovo,153216.0,6470.8,10296.1,1632.0,Spain
+22,23,Forschungszentrum Juelich (FZJ)Germany,BullAtosGroup,114480.0,6177.7,9891.1,1361.0,Germany
+23,24,NASA/Ames Research Center/NASUnited States,HPE,241108.0,5951.6,7107.1,4407.0,United States
+24,25,Japan Meteorological AgencyJapan,CrayInc./Hitachi,135792.0,5730.5,9125.2,1354.0,Japan
+25,26,Japan Meteorological AgencyJapan,CrayInc./Hitachi,135792.0,5730.5,9125.2,1354.0,Japan
+26,27,HLRS - Höchstleistungsrechenzentrum StuttgartGermany,CrayInc.,185088.0,5640.2,7403.5,3615.0,Germany
+27,28,Max-Planck-Gesellschaft MPI/IPPGermany,Intel,127520.0,5612.8,9793.5,1635.0,Germany
+28,29,King Abdullah University of Science and TechnologySaudi Arabia,CrayInc.,196608.0,5537.0,7235.2,2834.0,Saudi Arabia
+29,30,Total Exploration ProductionFrance,HPE,220800.0,5283.1,6712.3,4150.0,France
+30,31,National Center for Atmospheric Research (NCAR)United States,HPE,144900.0,4788.2,5332.3,1727.0,United States
+31,32,Research Institute for Information Technology Kyushu UniversityJapan,Fujitsu,72000.0,4540.7,6912.0,,Japan
+32,33,DOE/NNSA/LLNLUnited States,IBM,393216.0,4293.3,5033.2,1972.0,United States
+33,34,CEA/TGCC-GENCIFrance,BullAtosGroup,79488.0,4065.6,6635.5,917.0,France
+34,35,Petroleum Geo-ServicesUnited States,CrayInc.,145920.0,4042.5,5369.9,1800.0,United States
+35,36,ECMWFUnited Kingdom,CrayInc.,126468.0,3944.7,4249.3,1897.0,United Kingdom
+36,37,ECMWFUnited Kingdom,CrayInc.,126468.0,3944.7,4249.3,1897.0,United Kingdom
+37,38,Forschungszentrum Juelich (FZJ)Germany,T-PlatformsIntelDell,155150.0,3782.6,6563.8,1345.0,Germany
+38,39,Indian Institute of Tropical MeteorologyIndia,CrayInc.,119232.0,3763.9,4006.2,1353.0,India
+39,40,GovernmentUnited States,CrayInc.,72800.0,3577.0,6131.8,1499.0,United States
+40,41,GovernmentUnited States,CrayInc.,72800.0,3577.0,6131.8,1499.0,United States
+41,42,ERDC DSRCUnited States,CrayInc.,160304.0,3409.6,5865.5,,United States
+42,43,NASA/Ames Research Center/NASUnited States,HPE,78336.0,3328.6,4777.6,980.0,United States
+43,44,ERDC DSRCUnited States,HPE,124200.0,3318.9,4570.6,5175.0,United States
+44,45,FacebookUnited States,Self-made,60512.0,3307.0,4896.5,350.0,United States
+45,46,NVIDIA CorporationUnited States,Nvidia,60512.0,3307.0,4896.5,350.0,United States
+46,47,AWEUnited Kingdom,BullAtosGroup,113832.0,3243.4,3791.6,1134.0,United Kingdom
+47,48,Air Force Research LaboratoryUnited States,HPE,55296.0,3221.4,4777.6,,United States
+48,49,Eni S.p.A.Italy,IBM,72000.0,3188.0,4605.0,1227.0,Italy
+49,50,Japan Aerospace eXploration AgencyJapan,Fujitsu,110160.0,3157.0,3481.1,1652.0,Japan
+50,51,GovernmentUnited States,CrayInc.,225984.0,3143.5,4881.3,6328.0,United States
+51,52,Air Force Research LaboratoryUnited States,HPE,152692.0,3126.2,5610.5,4820.0,United States
+52,53,SciNet/University of Toronto/Compute CanadaCanada,Lenovo,60000.0,3074.2,4608.0,676.0,Canada
+53,54,Academic Center for Computing and Media Studies (ACCMS)  Kyoto UniversityJapan,CrayInc.,122400.0,3057.3,5483.5,748.0,Japan
+54,55,DKRZ - Deutsches KlimarechenzentrumGermany,BullAtosGroup,99072.0,3010.7,3962.9,1116.0,Germany
+55,56,Information Technology Center Nagoya UniversityJapan,Fujitsu,92160.0,2910.0,3244.0,1382.0,Japan
+56,57,Leibniz RechenzentrumGermany,IBM/Lenovo,147456.0,2897.0,3185.1,3423.0,Germany
+57,58,Leibniz RechenzentrumGermany,Lenovo/IBM,86016.0,2813.6,3578.3,1481.0,Germany
+58,59,United Kingdom Meteorological OfficeUnited Kingdom,CrayInc.,89856.0,2801.8,3019.2,1348.0,United Kingdom
+59,60,United Kingdom Meteorological OfficeUnited Kingdom,CrayInc.,89856.0,2801.8,3019.2,1348.0,United Kingdom
+60,61,Rokkasho Fusion Institute National Institutes for Quantum and Radiological Science and TechnologyJapan,CrayInc.,54560.0,2787.1,4190.2,698.0,Japan
+61,62,GSIC Center Tokyo Institute of TechnologyJapan,NEC/HPE,76032.0,2785.0,5735.7,1399.0,Japan
+62,63,Lawrence Livermore National LaboratoryUnited States,PenguinComputingInc.,95472.0,2632.5,3207.9,13620.0,United States
+63,64,Lawrence Livermore National LaboratoryUnited States,PenguinComputingInc.,95472.0,2632.5,3207.9,13620.0,United States
+64,65,Energy Company (A)Italy,Lenovo,66000.0,2592.0,3798.6,,Italy
+65,66,National Centre for Medium Range Weather ForecastingIndia,CrayInc.,83592.0,2570.4,2808.7,955.0,India
+66,67,National Supercomputing Center in TianjinChina,NUDT,186368.0,2566.0,4701.0,4040.0,China
+67,68,China Meteorological AdministrationChina,Sugon,50816.0,2547.0,4229.8,710.0,China
+68,69,DOE/SC/Pacific Northwest National LaboratoryUnited States,AtipaTechnology,194616.0,2539.1,3388.0,1384.0,United States
+69,70,Grand Equipement National de Calcul Intensif - Centre Informatique National de l'Enseignement Suprieur (GENCI-CINES)France,BullAtosGroup,85824.0,2494.7,3570.3,1430.0,France
+70,71,Army Research Laboratory DoD Supercomputing Resource Center (ARL DSRC)United States,CrayInc.,100064.0,2485.0,3682.4,1466.0,United States
+71,72,Moscow State University - Research Computing CenterRussia,T-Platforms,64384.0,2478.0,4946.8,,Russia
+72,73,US Army Research Laboratory (ARL)United States,HPE,73920.0,2443.7,2602.0,835.0,United States
+73,74,China Meteorological AdministrationChina,Sugon,48128.0,2435.0,4004.2,740.0,China
+74,75,Korea Meteorological AdministrationKorea South,CrayInc.,69600.0,2395.7,2895.4,1359.0,"Korea, South"
+75,76,Korea Meteorological AdministrationKorea South,CrayInc.,69600.0,2395.7,2895.4,1359.0,"Korea, South"
+76,77,National Institute for Fusion Science (NIFS)Japan,Fujitsu,82944.0,2376.0,2621.0,1244.0,Japan
+77,78,Saudi AramcoSaudi Arabia,DellEMC,53300.0,2322.5,3581.8,608.0,Saudi Arabia
+78,79,Internet Service PChina,Inspur,55104.0,2287.0,4890.0,,China
+79,80,Saudi AramcoSaudi Arabia,DellEMC,76032.0,2249.7,3041.3,1134.0,Saudi Arabia
+80,81,Meteo FranceFrance,BullAtosGroup,72000.0,2168.0,2534.4,830.0,France
+81,82,Meteo FranceFrance,BullAtosGroup,73440.0,2157.4,2585.1,830.0,France
+82,83,National Astronomical Observatory of JapanJapan,CrayInc.,40000.0,2090.0,3072.0,496.0,Japan
+83,84,LvLiang Cloud Computing CenterChina,NUDT,174720.0,2071.4,3074.5,997.0,China
+84,85,Navy DSRCUnited States,HPE,34560.0,2002.0,2986.0,,United States
+85,86,Navy DSRCUnited States,HPE,34560.0,2002.0,2986.0,,United States
+86,87,Universitaet MainzGermany,NEC/MEGWARE,49432.0,1967.8,2800.9,657.0,Germany
+87,88,National Institutes of Health (NIH)United States,HPE,66304.0,1966.1,2491.4,,United States
+88,89,Japan Atomic Energy Agency (JAEA)Japan,HPE,60240.0,1929.4,2409.6,3012.0,Japan
+89,90,Commissariat a l'Energie Atomique (CEA)France,BullAtosGroup,70272.0,1871.0,2586.0,1042.0,France
+90,91,Science and Technology Facilities CouncilUnited Kingdom,BullAtosGroup,80640.0,1829.9,4329.7,529.0,United Kingdom
+91,92,KTH - Royal Institute of TechnologySweden,CrayInc.,67456.0,1802.5,2438.1,842.0,Sweden
+92,93,Institute for Molecular ScienceJapan,NEC,38552.0,1785.6,3072.8,544.0,Japan
+93,94,BASFGermany,HPE,35280.0,1750.2,2709.5,,Germany
+94,95,Internet Service AChina,Inspur,38400.0,1729.0,3072.0,,China
+95,96,Internet Service AChina,Inspur,38400.0,1729.0,3072.0,,China
+96,97,Internet Service AChina,Inspur,38400.0,1729.0,3072.0,,China
+97,98,CINECAItaly,Lenovo,54432.0,1723.9,2003.1,1361.0,Italy
+98,99,Internet Service AChina,Inspur,39680.0,1714.0,3149.6,,China
+99,100,GovernmentUnited States,HPE,57600.0,1703.3,2304.0,2880.0,United States
+100,101,University of CambridgeUnited Kingdom,DellEMC,46464.0,1696.6,2875.0,480.0,United Kingdom
+101,102,National Computational Infrastructure National Facility (NCI-NF)Australia,Fujitsu/Lenovo/Xenon,87224.0,1676.2,3801.4,,Australia
+102,103,CyfronetPoland,HPE,55728.0,1670.1,2348.6,808.0,Poland
+103,104,DOE/SC/LBNL/NERSCUnited States,CrayInc.,133824.0,1654.7,2569.4,3747.0,United States
+104,105,Cloud ProviderAustralia,Lenovo,57600.0,1649.1,2119.7,,Australia
+105,106,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+106,107,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+107,108,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+108,109,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+109,110,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+110,111,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+111,112,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+112,113,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+113,114,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+114,115,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+115,116,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+116,117,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+117,118,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+118,119,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+119,120,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+120,121,Hosting ServicesUnited States,Lenovo,57600.0,1649.1,2119.7,,United States
+121,122,Software Company (M)Ireland,Lenovo,57600.0,1649.1,2119.7,,Ireland
+122,123,Software Company (M)Netherlands,Lenovo,57600.0,1649.1,2119.7,,Netherlands
+123,124,Software Company (M)Netherlands,Lenovo,57600.0,1649.1,2119.7,,Netherlands
+124,125,Software Company (M)Ireland,Lenovo,57600.0,1649.1,2119.7,,Ireland
+125,126,Software Company (M)Netherlands,Lenovo,57600.0,1649.1,2119.7,,Netherlands
+126,127,Software Company (M)Netherlands,Lenovo,57600.0,1649.1,2119.7,,Netherlands
+127,128,Software Company (M)Ireland,Lenovo,57600.0,1649.1,2119.7,,Ireland
+128,129,Software Company (M)Netherlands,Lenovo,57600.0,1649.1,2119.7,,Netherlands
+129,130,Software Company (M)Ireland,Lenovo,57600.0,1649.1,2119.7,,Ireland
+130,131,EPSRC/University of EdinburghUnited Kingdom,CrayInc.,118080.0,1642.5,2550.5,3306.0,United Kingdom
+131,132,NOAAUnited States,CrayInc.,48960.0,1635.0,2036.7,956.0,United States
+132,133,NOAAUnited States,CrayInc.,48960.0,1635.0,2036.7,956.0,United States
+133,134,Information Systems Division RIKENJapan,-PRIMERGYCX2550M4XeonGold614820C2.4GHzInfinibandEDR,,33600.0,1601.0,2580.5,Japan
+134,135,IBM Development EngineeringUnited States,IBM,62944.0,1587.0,1931.6,3576.0,United States
+135,136,Los Alamos National LaboratoryUnited States,PenguinComputingInc.,53352.0,1524.7,1792.6,603.0,United States
+136,137,Internet Service AChina,Inspur,33000.0,1471.0,3000.0,,China
+137,138,IntelUnited States,Intel,45680.0,1463.0,2507.3,431.0,United States
+138,139,IT4Innovations National Supercomputing Center VSB-Technical University of OstravaCzech Republic,HPE,76896.0,1457.7,2011.6,4806.0,Czech Republic
+139,140,Science and Technology Facilities Council - Daresbury LaboratoryUnited Kingdom,IBM,131072.0,1431.1,1677.7,657.0,United Kingdom
+140,141,Air Force Research LaboratoryUnited States,HPE,73584.0,1415.5,1530.5,1606.0,United States
+141,142,Swiss National Supercomputing Centre (CSCS)Switzerland,CrayInc.,44928.0,1410.7,1509.6,519.0,Switzerland
+142,143,NTT Communications Tokyo No.4 Data CenterJapan,NTTCommunications/NTTPCCommunications,59392.0,1391.0,4917.7,,Japan
+143,144,AtosFrance,BullAtosGroup,49896.0,1363.5,1676.5,543.0,France
+144,145,CEA/TGCC-GENCIFrance,BullAtosGroup,77184.0,1359.0,1667.2,2132.0,France
+145,146,Internet Service AChina,Inspur,31680.0,1352.0,2332.0,,China
+146,147,Simon Fraser University/Compute CanadaCanada,DellEMC,59776.0,1337.0,3710.5,167.0,Canada
+147,148,National Center for High Performance ComputingTaiwan,Fujitsu,27200.0,1325.2,2089.0,332.0,Taiwan
+148,149,Service Provider TChina,Lenovo,30000.0,1319.5,2400.0,,China
+149,150,Service Provider TChina,Lenovo,30000.0,1319.5,2400.0,,China
+150,151,CEA/TGCC-GENCIFrance,BullAtosGroup,56304.0,1311.3,2339.6,326.0,France
+151,152,GovernmentChina,Sugon,24400.0,1307.0,1950.4,300.0,China
+152,153,Commissariat a l'Energie Atomique (CEA)/CCRTFrance,BullAtosGroup,38528.0,1299.5,1479.5,539.0,France
+153,154,Navy DSRCUnited States,CrayInc.,61256.0,1285.6,2049.6,2324.0,United States
+154,155,Navy DSRCUnited States,CrayInc.,61256.0,1285.6,2049.6,2324.0,United States
+155,156,Max-Planck-Gesellschaft MPI/IPPGermany,Lenovo/IBM,65320.0,1283.3,1463.2,1260.0,Germany
+156,157,Internet Service AChina,Inspur,66560.0,1276.0,2662.4,,China
+157,158,National Supercomputing Centre in Shenzhen (NSCS)China,Sugon,120640.0,1271.0,2984.3,2580.0,China
+158,159,Internet Service AChina,Inspur,65280.0,1271.0,2611.2,,China
+159,160,Internet Service AChina,Inspur,64000.0,1269.0,2560.0,,China
+160,161,Internet Service AChina,Inspur,64000.0,1269.0,2560.0,,China
+161,162,National Center for Atmospheric Research (NCAR)United States,IBM,72288.0,1257.6,1503.6,1437.0,United States
+162,163,CSC (Center for Scientific Computing)Finland,CrayInc.,40608.0,1250.0,1689.3,680.0,Finland
+163,164,Internet Service (B)China,Sugon,72000.0,1242.0,2534.4,900.0,China
+164,165,Computer Network Information Center Chinese Academy of ScienceChina,Sugon,22656.0,1238.0,1845.4,144.0,China
+165,166,SharcNetCanada,HuaweiTechnologiesCo.Ltd.,51200.0,1228.0,2641.4,546.0,Canada
+166,167,AtosFrance,BullAtosGroup,46800.0,1225.3,1647.4,472.0,France
+167,168,Sandia National LaboratoriesUnited States,PenguinComputingInc.,40392.0,1223.7,1357.2,480.0,United States
+168,169,Sandia National LaboratoriesUnited States,PenguinComputingInc.,40392.0,1223.7,1357.2,480.0,United States
+169,170,Deutscher WetterdienstGermany,CrayInc.,41472.0,1214.2,1459.8,528.0,Germany
+170,171,Center for Advanced Intelligence Project RIKENJapan,Fujitsu,35360.0,1213.0,3244.8,107.0,Japan
+171,172,Main Computer Center of RoshydrometRussia,CrayInc./T-Platforms,35136.0,1200.3,1293.0,,Russia
+172,173,University of CambridgeUnited Kingdom,DellEMC,21240.0,1193.0,1751.6,114.0,United Kingdom
+173,174,Internet Service AChina,Inspur,28800.0,1188.0,2120.0,,China
+174,175,Internet Service AChina,Inspur,28800.0,1188.0,2120.0,,China
+175,176,Internet Service AChina,Inspur,24960.0,1182.0,2204.8,,China
+176,177,Internet Service AChina,Inspur,24960.0,1182.0,2204.8,,China
+177,178,Manufacturing CompanyUnited States,HPE,23808.0,1181.1,1980.8,,United States
+178,179,Lawrence Livermore National LaboratoryUnited States,PenguinComputingInc.,39744.0,1179.6,1335.4,485.0,United States
+179,180,University of Tokyo/Institute for Solid State PhysicsJapan,HPE,38016.0,1178.3,1520.6,581.0,Japan
+180,181,Internet Service AChina,Inspur,12800.0,1171.0,2120.0,,China
+181,182,Internet Service AChina,Inspur,12800.0,1171.0,2120.0,,China
+182,183,ERDC DSRCUnited States,CrayInc.,150528.0,1167.0,1505.3,5569.0,United States
+183,184,Internet CompanyChina,Inspur,26880.0,1161.0,2400.0,,China
+184,185,Service Provider TChina,Lenovo,64320.0,1156.5,2367.0,,China
+185,186,Internet Service AChina,Inspur,28800.0,1152.0,2544.0,,China
+186,187,Service Provider TChina,Lenovo,78000.0,1149.6,2870.4,2438.0,China
+187,188,Service Provider TChina,Lenovo,75776.0,1145.2,2546.1,,China
+188,189,Los Alamos National LaboratoryUnited States,PenguinComputingInc.,39672.0,1144.8,1333.0,486.0,United States
+189,190,Los Alamos National LaboratoryUnited States,PenguinComputingInc.,39672.0,1144.8,1333.0,486.0,United States
+190,191,Sandia National LaboratoriesUnited States,PenguinComputingInc.,41256.0,1142.4,1156.8,480.0,United States
+191,192,Internet Service AChina,Inspur,59520.0,1128.0,2380.8,,China
+192,193,Internet Service AChina,Inspur,59520.0,1128.0,2380.8,,China
+193,194,Internet Service AChina,Inspur,28800.0,1128.0,2120.0,,China
+194,195,Internet Service AChina,Inspur,28800.0,1128.0,2120.0,,China
+195,196,Internet Service AChina,Inspur,28800.0,1128.0,2120.0,,China
+196,197,Service Provider TChina,Lenovo,62400.0,1127.5,2296.3,,China
+197,198,Internet Service (B)China,Sugon,64800.0,1124.0,2281.0,1620.0,China
+198,199,Cloud ProviderBrazil,Lenovo,38400.0,1123.2,1413.1,,Brazil
+199,200,Cloud ProviderAustralia,Lenovo,38400.0,1123.2,1413.1,,Australia
+200,201,Software CompanyKorea South,Lenovo,38400.0,1123.2,1413.1,,"Korea, South"
+201,202,Software Company (M)United Kingdom,Lenovo,38400.0,1123.2,1413.1,,United Kingdom
+202,203,Software Company (M)United Kingdom,Lenovo,38400.0,1123.2,1413.1,,United Kingdom
+203,204,Software Company (M)United Kingdom,Lenovo,38400.0,1123.2,1413.1,,United Kingdom
+204,205,Software Company (M)United Kingdom,Lenovo,38400.0,1123.2,1413.1,,United Kingdom
+205,206,Software Company (M)India,Lenovo,38400.0,1123.2,1413.1,,India
+206,207,NOAAUnited States,DellEMC/IBM-GBS,33600.0,1121.1,1397.8,,United States
+207,208,NOAAUnited States,DellEMC/IBM-GBS,33600.0,1121.1,1397.8,,United States
+208,209,Telecom CompanyChina,Sugon,66000.0,1121.0,2323.2,,China
+209,210,Internet CompanyChina,Sugon,67200.0,1108.0,2257.9,1050.0,China
+210,211,Internet Service AChina,Inspur,57600.0,1106.0,2304.0,,China
+211,212,Internet Service AChina,Inspur,57600.0,1106.0,2304.0,,China
+212,213,Energy Company (DD)United States,DellEMC,25920.0,1106.0,1748.4,3564.0,United States
+213,214,Internet CompanyChina,Sugon,64000.0,1102.0,2252.8,960.0,China
+214,215,Internet Company AChina,Lenovo,84000.0,1101.6,3360.0,2625.0,China
+215,216,Internet Company AChina,Lenovo,84000.0,1101.6,3360.0,2625.0,China
+216,217,Pawsey Supercomputing Centre Kensington Western AustraliaAustralia,CrayInc.,35712.0,1097.6,1485.6,698.0,Australia
+217,218,SURFsaraNetherlands,BullAtosGroup,38880.0,1088.5,1327.1,706.0,Netherlands
+218,219,Idaho National LaboratoryUnited States,HPE,34884.0,1087.6,1172.1,354.0,United States
+219,220,IT Service ProviderUnited States,HPE,36288.0,1085.5,1509.6,,United States
+220,221,Institute of Atmospheric Physics Chinese Academy of SciencesChina,Sugon,19264.0,1075.0,1602.8,344.0,China
+221,222,CNRS/IDRIS-GENCIFrance,IBM,98304.0,1073.3,1258.3,493.0,France
+222,223,University of EdinburghUnited Kingdom,IBM,98304.0,1073.3,1258.3,493.0,United Kingdom
+223,224,Energy Company (D)United States,HPE,41600.0,1071.4,1730.6,,United States
+224,225,Energy Company (D)United States,HPE,41600.0,1071.4,1730.6,,United States
+225,226,DOE/SC/Argonne National LaboratoryUnited States,CrayInc.,46720.0,1070.6,1750.0,,United States
+226,227,NVIDIA CorporationUnited States,Nvidia,22440.0,1070.0,1819.8,97.0,United States
+227,228,Internet CompanyChina,Lenovo,63552.0,1064.3,2135.3,,China
+228,229,AutomotiveUnited States,HPE,39744.0,1061.0,1462.6,,United States
+229,230,Service Provider TChina,Lenovo,51840.0,1060.2,1824.8,,China
+230,231,Service Provider TChina,Lenovo,56000.0,1057.1,2150.4,,China
+231,232,Louisiana Optical Network InitiativeUnited States,DellEMC,23040.0,1052.0,1473.6,500.0,United States
+232,233,US Army Research Laboratory (ARL)United States,HPE,33088.0,1050.5,1164.7,433.0,United States
+233,234,Commissariat a l'Energie Atomique (CEA)France,BullAtosGroup,138368.0,1050.0,1254.5,4590.0,France
+234,235,Internet Service AChina,Inspur,39520.0,1048.0,2014.0,,China
+235,236,GovernmentChina,Sugon,51200.0,1044.0,2129.9,960.0,China
+236,237,Internet Service AChina,Inspur,24000.0,1042.0,2120.0,,China
+237,238,Internet Service AChina,Inspur,24000.0,1042.0,2120.0,,China
+238,239,Internet Service (B)China,Lenovo,100000.0,1038.4,3200.0,3750.0,China
+239,240,Internet Service (B)China,Inspur,52800.0,1038.0,1858.6,,China
+240,241,Internet Service (B)China,Inspur,52800.0,1038.0,1858.6,,China
+241,242,Internet CompanyChina,Sugon,210000.0,1036.0,2112.0,750.0,China
+242,243,MIT/Lincoln LaboratoryUnited States,DellEMC,41472.0,1032.8,1725.2,,United States
+243,244,Internet Service AChina,Inspur,57600.0,1030.0,1908.0,,China
+244,245,TU Dresden ZIHGermany,BullAtosGroup,34656.0,1029.9,1386.2,582.0,Germany
+245,246,Centre for High Performance ComputingSouth Africa,DellEMC,32856.0,1029.3,1366.8,685.0,South Africa
+246,247,Internet Service (B)China,Sugon,58800.0,1028.0,2069.8,735.0,China
+247,248,Internet CompanyChina,Sugon,54000.0,1026.0,2073.6,900.0,China
+248,249,ROMEO HPC Center - Champagne-ArdenneFrance,BullAtosGroup,17640.0,1022.0,1484.0,127.0,France
+249,250,Internet Service AChina,Inspur,27360.0,1021.0,2014.0,,China
+250,251,Financial InstitutionUnited Kingdom,HPE,46620.0,1020.5,1715.6,,United Kingdom
+251,252,Financial InstitutionUnited Kingdom,HPE,46620.0,1020.5,1715.6,,United Kingdom
+252,253,Financial InstitutionUnited Kingdom,HPE,46620.0,1020.5,1715.6,,United Kingdom
+253,254,Research Institute for Information Technology Kyushu UniversityJapan,Hitachi/Fujitsu,222072.0,1018.0,1502.2,19431.0,Japan
+254,255,Barcelona Supercomputing CenterSpain,IBM,19440.0,1018.0,1485.5,86.0,Spain
+255,256,Texas Advanced Computing Center/Univ. of TexasUnited States,CrayInc.,30048.0,1017.0,1250.0,587.0,United States
+256,257,Internet CompanyChina,Sugon,60000.0,1015.0,2112.0,750.0,China
+257,258,Deutscher WetterdienstGermany,CrayInc.,34560.0,1014.0,1227.6,448.0,Germany
+258,259,PCSS PoznanPoland,HuaweiTechnologiesCo.Ltd.,32984.0,1013.7,1372.1,550.0,Poland
+259,260,Service Provider TChina,Lenovo,108000.0,1013.5,3974.4,3375.0,China
+260,261,Software Company (M)United States,HPE,36720.0,1012.0,1410.0,,United States
+261,262,Software Company (M)United States,HPE,36720.0,1012.0,1410.0,,United States
+262,263,Academic Computer Centre in GdanskPoland,Megatel/Action,38400.0,1010.9,1413.1,864.0,Poland
+263,264,National Supercomputing Centre SingaporeSingapore,Fujitsu,30912.0,1010.0,1285.9,1159.0,Singapore
+264,265,Dell EMC HPC Innovation labUnited States,DellEMC,24240.0,1007.9,1861.6,,United States
+265,266,Service Provider TChina,Lenovo,53200.0,1005.5,2042.9,,China
+266,267,Service Provider TChina,Lenovo,53200.0,1005.5,2042.9,,China
+267,268,Internet Service AChina,Inspur,26208.0,1004.0,1929.2,,China
+268,269,Internet Service AChina,Inspur,26208.0,1004.0,1929.2,,China
+269,270,Internet Company AChina,Lenovo,23904.0,1001.7,1772.9,,China
+270,271,Advanced Center for Computing and Communication RIKENJapan,PEZYComputing/ExascalerInc.,1313280.0,1001.0,1533.5,150.0,Japan
+271,272,NASA/Goddard Space Flight CenterUnited States,HPE,31248.0,1000.5,1299.9,2009.0,United States
+272,273,HLRN at ZIB/Konrad Zuse-Zentrum BerlinGermany,CrayInc.,44928.0,991.5,1425.7,878.0,Germany
+273,274,Internet CompanyChina,Sugon,60000.0,990.7,2016.0,600.0,China
+274,275,Advanced Center for Computing and Communication RIKENJapan,Fujitsu,34560.0,989.6,1092.1,518.0,Japan
+275,276,Meteorological Research Institute Japan Meteorological AgencyJapan,Fujitsu,34560.0,989.6,1092.1,518.0,Japan
+276,277,Internet Service AChina,Inspur,21600.0,988.2,1908.0,,China
+277,278,Internet Service AChina,Inspur,52800.0,986.0,2112.0,,China
+278,279,Internet Service AChina,Inspur,52800.0,986.0,2112.0,,China
+279,280,Internet Service (B)China,Sugon,48000.0,984.8,1996.8,1710.0,China
+280,281,IPE-HPCChina,Sugon,24800.0,981.2,1643.2,840.0,China
+281,282,Purdue UniversityUnited States,HPE,77520.0,976.8,1341.1,510.0,United States
+282,283,Internet Service AChina,Inspur,51200.0,974.0,2048.0,,China
+283,284,Internet Service AChina,Inspur,51200.0,974.0,2048.0,,China
+284,285,Energy CompanyChina,HuaweiTechnologiesCo.Ltd.,34816.0,974.0,1906.7,344.0,China
+285,286,Service Provider TChina,Lenovo,79520.0,972.1,2544.6,,China
+286,287,National Institute of Advanced Industrial Science and TechnologyJapan,NEC,23400.0,961.0,2148.8,76.0,Japan
+287,288,IT Service Provider (L)China,Sugon,51200.0,960.3,1966.1,960.0,China
+288,289,AWEUnited Kingdom,HPE,44520.0,958.7,997.2,855.0,United Kingdom
+289,290,Air Force Research LaboratoryUnited States,CrayInc.,56112.0,957.6,1212.0,1571.0,United States
+290,291,Service Provider TChina,Lenovo,90000.0,954.7,3744.0,3375.0,China
+291,292,Service Provider TChina,Lenovo,90000.0,954.7,3744.0,3375.0,China
+292,293,Service Provider TChina,Lenovo,50400.0,954.1,1935.4,,China
+293,294, IT Service ProviderChina,Sugon,50400.0,953.7,1935.4,720.0,China
+294,295,UNINETT Sigma2 ASNorway,Lenovo,32192.0,953.6,1081.7,,Norway
+295,296,Service Provider TChina,HPE,41832.0,951.7,1539.4,1394.0,China
+296,297,AtosFrance,BullAtosGroup,35360.0,947.9,1584.1,212.0,France
+297,298,Internet CompanyChina,Sugon,50400.0,946.8,1935.4,1965.0,China
+298,299,Internet Service AChina,Inspur,21600.0,944.2,1908.0,,China
+299,300,Internet Service AChina,Inspur,21600.0,944.2,1908.0,,China
+300,301,EDFFrance,BullAtosGroup,29568.0,942.8,1135.4,421.0,France
+301,302,GovernmentChina,Sugon,48000.0,942.4,1920.0,800.0,China
+302,303,Service Provider TChina,Lenovo,21120.0,940.4,1689.6,,China
+303,304,China Manufacture Company BChina,HuaweiTechnologiesCo.Ltd.,32768.0,937.9,1101.0,416.0,China
+304,305,Manufacturing Company (A)Sweden,HuaweiTechnologiesCo.Ltd.,27664.0,935.6,1150.8,445.0,Sweden
+305,306,Internet Service AChina,Inspur,25920.0,934.7,1908.0,,China
+306,307,Internet Service (B)China,Inspur,52800.0,934.2,1943.0,,China
+307,308,Internet Service (B)China,Inspur,52800.0,934.2,1943.0,,China
+308,309,Internet Service (B)China,Inspur,52800.0,934.2,1943.0,,China
+309,310,IT Service ProviderChina,Sugon,49600.0,932.3,1904.6,930.0,China
+310,311,Internet CompanyChina,Sugon,54000.0,931.2,1900.8,675.0,China
+311,312,Internet CompanyChina,Sugon,56000.0,920.8,1881.6,770.0,China
+312,313,Information Technology Company (P)China,HPE,46640.0,918.8,1641.7,,China
+313,314,IT Service Provider (L)China,Sugon,48000.0,918.4,1843.2,900.0,China
+314,315,Service Provider TChina,Lenovo,43200.0,915.4,1520.6,,China
+315,316,Internet CompanyChina,Sugon,50000.0,914.8,1840.0,1235.0,China
+316,317,IT Provider (P)United States,HPE,28800.0,914.7,1152.0,1590.0,United States
+317,318,Internet Company AChina,Lenovo,21600.0,912.7,1602.0,,China
+318,319,Internet Company AChina,Lenovo,21600.0,912.7,1602.0,,China
+319,320,Interdisciplinary Centre for Mathematical and Computational Modelling University of WarsawPoland,CrayInc.,26016.0,909.6,1082.3,585.0,Poland
+320,321,National Institute of Water and Atmospheric ResearchNew Zealand,CrayInc.,18560.0,908.9,1425.4,,New Zealand
+321,322,Internet Service AChina,Inspur,20640.0,906.1,1800.0,,China
+322,323,Shared Services CanadaCanada,CrayInc.,30816.0,904.1,1035.4,,Canada
+323,324,Shared Services CanadaCanada,CrayInc.,30816.0,904.1,1035.4,,Canada
+324,325,GovernmentChina,Lenovo,50400.0,902.2,1935.4,,China
+325,326,Moscow State University - Research Computing CenterRussia,T-Platforms,78660.0,901.9,1700.2,2800.0,Russia
+326,327,Supercomputer Education and Research Centre (SERC) Indian Institute of ScienceIndia,CrayInc.,31104.0,901.5,1244.2,608.0,India
+327,328,UniversityChina,Sugon,17200.0,897.2,1444.2,140.0,China
+328,329,Internet CompanyChina,Lenovo,51360.0,895.1,1807.9,,China
+329,330,Rensselaer Polytechnic InstituteUnited States,IBM,81920.0,894.4,1048.6,411.0,United States
+330,331,Software Company (M)United States,HPE,32400.0,893.0,1244.2,,United States
+331,332,Simulation Cloud Service AChina,HuaweiTechnologiesCo.Ltd.,33216.0,889.3,1116.1,437.0,China
+332,333,Internet Service AChina,Inspur,19200.0,884.0,1696.0,,China
+333,334,Internet Service AChina,Inspur,19200.0,884.0,1696.0,,China
+334,335,Internet Service AChina,Inspur,18240.0,882.0,1611.2,,China
+335,336,Internet Service AChina,Inspur,18240.0,882.0,1611.2,,China
+336,337,Manufacturing Company CGermany,HuaweiTechnologiesCo.Ltd.,30184.0,881.8,1159.1,369.0,Germany
+337,338,Internet Service (S)China,Lenovo,53200.0,881.0,2213.1,,China
+338,339,Internet CompanyChina,Lenovo,50400.0,879.2,1774.1,,China
+339,340,Internet Company AChina,HuaweiTechnologiesCo.Ltd.,49600.0,875.9,1825.3,930.0,China
+340,341,Internet Service AChina,Inspur,45440.0,874.8,1817.6,,China
+341,342,Internet Service AChina,Inspur,45440.0,874.8,1817.6,,China
+342,343,Internet Service AChina,Inspur,44800.0,874.1,1792.0,,China
+343,344,Internet Service AChina,Inspur,44800.0,874.1,1792.0,,China
+344,345,Internet Service AChina,Inspur,44800.0,874.1,1792.0,,China
+345,346,Clemson UniversityUnited States,HPE,23452.0,870.0,1550.5,1124.0,United States
+346,347,Internet Service AChina,Inspur,19200.0,869.2,1696.0,,China
+347,348,RetailUnited States,HPE,46080.0,869.2,1548.3,,United States
+348,349,Internet Company AChina,Lenovo,20160.0,866.5,1495.2,,China
+349,350,Internet Company AChina,Lenovo,20160.0,866.5,1495.2,,China
+350,351,Internet Service AChina,Inspur,23040.0,865.0,1696.0,,China
+351,352,Internet Service AChina,Inspur,23040.0,865.0,1696.0,,China
+352,353,Internet Service AChina,Inspur,23040.0,865.0,1696.0,,China
+353,354,University of SouthamptonUnited Kingdom,Lenovo,20400.0,864.5,1305.6,,United Kingdom
+354,355,GovernmentChina,Sugon,45600.0,862.5,1751.0,1700.0,China
+355,356,Volvo Personvagnar ABSweden,HPE,24624.0,861.5,1024.4,,Sweden
+356,357,Software Company (M)United States,HPE,40320.0,858.9,1483.8,,United States
+357,358,Software Company (M)United States,HPE,40320.0,858.9,1483.8,,United States
+358,359,Advanced Center for Computing and Communication RIKENJapan,PEZYComputing/ExascalerInc.,794400.0,857.6,1127.7,47.0,Japan
+359,360,Chinese Institute of MeteorologyChina,HuaweiTechnologiesCo.Ltd.,33280.0,857.6,1118.2,448.0,China
+360,361,Trading CompanyChina,HPE,36800.0,856.5,1530.9,1840.0,China
+361,362,Services Company (S)Japan,HPE,37884.0,852.8,1454.7,,Japan
+362,363,Internet CompanyChina,Sugon,51200.0,841.6,1720.3,640.0,China
+363,364,Energy Company (D)United States,HPE,34304.0,841.5,1427.0,,United States
+364,365,Software Company (M)United States,HPE,30528.0,841.4,1172.3,,United States
+365,366,Software Company (M)United States,HPE,30528.0,841.4,1172.3,,United States
+366,367,Network CompanyChina,Lenovo,48000.0,840.5,1843.2,,China
+367,368,Core InternationalChina,Lenovo,30080.0,840.3,1540.1,,China
+368,369,IT Services Provider United States,HPE,33660.0,838.8,1400.3,,United States
+369,370,Internet CompanyChina,Lenovo,48000.0,838.2,1689.6,,China
+370,371,IT Service Provider (L)China,Sugon,44800.0,838.0,1720.3,840.0,China
+371,372,GovernmentChina,Lenovo,32000.0,836.2,1962.2,,China
+372,373,IntelUnited States,HPE,30672.0,833.9,1226.9,1534.0,United States
+373,374,Software Company (M)United States,HPE,30240.0,833.5,1161.2,,United States
+374,375, IT Service ProviderChina,Sugon,48000.0,832.6,1689.6,600.0,China
+375,376,Government DepartmentChina,Sugon,48000.0,832.2,1689.6,720.0,China
+376,377,Services Company (S)United States,HPE,36736.0,831.9,1410.7,,United States
+377,378,Services Company (S)United States,HPE,36736.0,831.9,1410.7,,United States
+378,379,HLRN at Universitaet Hannover / RRZNGermany,CrayInc.,40320.0,829.8,1241.4,788.0,Germany
+379,380,Telecom CompanyChina,Sugon,45600.0,827.8,1678.1,570.0,China
+380,381,Internet Company AChina,Lenovo,37600.0,827.2,1504.0,881.0,China
+381,382,Service Provider TChina,Lenovo,43120.0,825.9,1655.8,,China
+382,383,Internet CompanyChina,Lenovo,50240.0,825.8,1688.1,,China
+383,384,Internet Service (B)China,Lenovo,45120.0,825.7,1588.2,,China
+384,385,PEZY Computing K.K.Japan,PEZYComputing/ExascalerInc.,794400.0,824.7,1127.7,50.0,Japan
+385,386,Cloud ProviderAustralia,Lenovo,28800.0,824.6,1059.8,,Australia
+386,387,Hosting ServicesUnited States,Lenovo,28800.0,824.6,1059.8,,United States
+387,388,Hosting ServicesUnited States,Lenovo,28800.0,824.6,1059.8,,United States
+388,389,Hosting ServicesUnited States,Lenovo,28800.0,824.6,1059.8,,United States
+389,390,Hosting ServicesUnited States,Lenovo,28800.0,824.6,1059.8,,United States
+390,391,Hosting ServicesUnited States,Lenovo,28800.0,824.6,1059.8,,United States
+391,392,Software Company (M)Singapore,Lenovo,28800.0,824.6,1059.8,,Singapore
+392,393,Software Company (M)Ireland,Lenovo,28800.0,824.6,1059.8,,Ireland
+393,394,Software Company (M)Netherlands,Lenovo,28800.0,824.6,1059.8,,Netherlands
+394,395,Internet Service (B)China,Sugon,48000.0,822.8,1689.6,988.0,China
+395,396,Financial Company (C A1)China,Lenovo,42496.0,822.7,1495.9,996.0,China
+396,397,Academic Center for Computing and Media Studies (ACCMS)  Kyoto UniversityJapan,CrayInc.,30600.0,821.9,1028.2,357.0,Japan
+397,398,Internet CompanyChina,Sugon,48000.0,821.8,1689.6,620.0,China
+398,399,Pharmaceutical Company China,HuaweiTechnologiesCo.Ltd.,29344.0,820.3,1220.7,396.0,China
+399,400,Software Company (M)United States,HPE,38880.0,819.2,1493.0,,United States
+400,401,Software Company (M)United States,HPE,38880.0,819.2,1493.0,,United States
+401,402,Software Company (M)Ireland,HPE,38784.0,819.2,1489.3,,Ireland
+402,403,Software Company (M)Ireland,HPE,36840.0,819.2,1414.7,,Ireland
+403,404,Software Company (M)United States,HPE,36480.0,819.2,1400.8,,United States
+404,405,Software Company (M)United States,HPE,36048.0,819.2,1384.2,,United States
+405,406,Internet Company AChina,Lenovo,18720.0,817.2,1388.4,,China
+406,407,Saudi AramcoSaudi Arabia,HPE,40960.0,816.6,917.5,707.0,Saudi Arabia
+407,408,Internet CompanyChina,Lenovo,49600.0,815.6,1666.6,,China
+408,409,Internet Service AChina,Inspur,18432.0,814.2,1463.0,,China
+409,410,Internet CompanyChina,Sugon,54000.0,810.8,1641.6,900.0,China
+410,411,Information Technology Center The University of TokyoJapan,HPE,16640.0,805.6,1434.2,79.0,Japan
+411,412,IT Service Provider (L)China,Sugon,43200.0,804.9,1658.9,900.0,China
+412,413,Internet Service (B)China,Lenovo,54800.0,803.9,2104.3,,China
+413,414,Information Technology Center The University of TokyoJapan,HPE,17760.0,802.4,1417.2,94.0,Japan
+414,415,Internet Service (B)China,Lenovo,44800.0,802.1,1720.3,,China
+415,416,IT Service Provider (L)China,Sugon,44000.0,801.6,1619.2,660.0,China
+416,417,Westfälische Wilhelms-Universität MünsterGermany,MEGWARE,17352.0,800.3,1277.1,214.0,Germany
+417,418,Internet CompanyChina,Sugon,176000.0,798.6,1619.2,1100.0,China
+418,419,High Energy Accelerator Research Organization /KEKJapan,PEZYComputing/ExascalerInc.,762624.0,798.0,1082.6,47.0,Japan
+419,420,National Supercomputing Center in JinanChina,NationalResearchCenterofParallelComputerEngineering&Technology,137200.0,795.9,1070.2,1074.0,China
+420,421,Service Provider TChina,Lenovo,43200.0,794.6,1589.8,,China
+421,422,Purdue UniversityUnited States,DellEMC,12960.0,793.2,1078.3,240.0,United States
+422,423,Service Provider TChina,Lenovo,46000.0,793.1,1619.2,,China
+423,424,Max-Planck-Gesellschaft MPI/IPPGermany,Lenovo,28128.0,790.7,1035.1,,Germany
+424,425,Network CompanyChina,Lenovo,45600.0,788.4,1605.1,,China
+425,426,Internet Company AChina,Lenovo,39200.0,788.2,1630.7,,China
+426,427,Internet Service (B)China,Sugon,46000.0,788.2,1619.2,1076.0,China
+427,428,University (A)China,HuaweiTechnologiesCo.Ltd.,28160.0,787.1,946.2,358.0,China
+428,429,Software Company (M)United States,HPE,34560.0,785.3,1327.1,,United States
+429,430,Software Company (M)Netherlands,HPE,34560.0,785.3,1327.1,,Netherlands
+430,431,Software Company (M)Netherlands,HPE,34560.0,785.3,1327.1,,Netherlands
+431,432,Software Company (M)United States,HPE,34560.0,785.3,1327.1,,United States
+432,433,Stanford Research Computing CenterUnited States,CrayInc.,14820.0,781.3,1001.7,190.0,United States
+433,434,Internet Service AChina,Inspur,17920.0,779.2,1422.4,,China
+434,435,Network CompanyChina,Lenovo,45000.0,777.7,1584.0,,China
+435,436,University of Tokyo/Institute for Solid State PhysicsJapan,HPE,15552.0,777.4,1100.2,255.0,Japan
+436,437,Lawrence Livermore National LaboratoryUnited States,CrayInc.,46208.0,773.7,961.1,924.0,United States
+437,438,National Super Computer Center in HunanChina,NUDT,53248.0,771.7,1342.8,1155.0,China
+438,439,Qingdao National Laboratory for Marine Science and TechnologyChina,Inspur,23920.0,771.3,1030.2,162.0,China
+439,440,National Institute for Environmental StudiesJapan,NSSOL/HPE,16320.0,770.4,1243.8,79.0,Japan
+440,441,Research (B)China,Sugon,12880.0,769.2,1071.6,184.0,China
+441,442,Karlsruher Institut für Technologie (KIT) Germany,Lenovo,22960.0,768.3,955.1,435.0,Germany
+442,443,Service Provider TChina,Lenovo,40320.0,768.0,1548.3,,China
+443,444,AWEUnited Kingdom,HPE,35640.0,767.5,798.3,685.0,United Kingdom
+444,445,Service Provider TChina,Lenovo,40800.0,765.6,1501.4,,China
+445,446,Service Provider TChina,Lenovo,40800.0,765.6,1501.4,,China
+446,447,Petroleum CompanyChina,HuaweiTechnologiesCo.Ltd.,26880.0,763.8,1032.2,374.0,China
+447,448,Sandia National LaboratoriesUnited States,PenguinComputingInc.,25920.0,761.8,870.9,320.0,United States
+448,449,Penguin Computing Inc.United States,PenguinComputingInc.,26496.0,759.9,778.5,321.0,United States
+449,450,Service ProviderKorea South,HPE,30720.0,759.6,1032.2,,"Korea, South"
+450,451,E-CommerceUnited States,HPE,41132.0,758.6,1316.2,,United States
+451,452,Retailer (C)United States,HPE,36500.0,758.6,1284.8,,United States
+452,453,Retailer (C)United States,HPE,36500.0,758.6,1284.8,,United States
+453,454,Service ProviderKorea South,HPE,32760.0,757.0,1258.0,,"Korea, South"
+454,455,Internet Company AChina,Lenovo,70000.0,756.9,2240.0,2625.0,China
+455,456,Internet Company AChina,Lenovo,70000.0,756.9,2240.0,2625.0,China
+456,457,Internet Company AChina,Lenovo,70000.0,756.9,2240.0,2625.0,China
+457,458,"National Research Centre ""Kurchatov Institute""Russia",SuperMicro/Mellanox,22700.0,755.5,1268.4,,Russia
+458,459,Software Company (M)United States,HPE,30000.0,753.5,1152.0,1000.0,United States
+459,460,IT Service ProviderChina,Sugon,44000.0,752.3,1548.8,1029.0,China
+460,461,Government Research CenterChina,Sugon,38400.0,752.3,1536.0,672.0,China
+461,462,Internet Service (B)China,Inspur,48000.0,748.2,1766.4,,China
+462,463,Internet Service (B)China,Inspur,48000.0,748.2,1766.4,,China
+463,464,Service Provider TChina,Inspur,48000.0,748.2,1766.4,,China
+464,465,Manufacturing Company AGermany,HuaweiTechnologiesCo.Ltd.,35480.0,747.7,1419.2,574.0,Germany
+465,466,Central China Normal UniversityChina,Inspur,11952.0,746.1,1080.0,,China
+466,467,Software Company (M)United States,HPE,32832.0,746.1,1260.7,,United States
+467,468,Center for Computational Sciences University of TsukubaJapan,CrayInc.,55664.0,746.0,998.5,366.0,Japan
+468,469,GovernmentChina,Sugon,15872.0,745.9,1288.4,150.0,China
+469,470,Internet Company AChina,Lenovo,34560.0,745.4,1382.4,,China
+470,471,Service ProviderKorea South,HPE,32200.0,744.0,1236.5,,"Korea, South"
+471,472,GovernmentChina,Sugon,39200.0,742.4,1505.3,588.0,China
+472,473,Internet Company (I)China,Sugon,43200.0,742.3,1520.6,540.0,China
+473,474,Internet CompanyChina,Sugon,43200.0,741.8,1520.6,900.0,China
+474,475,National Institute for Materials ScienceJapan,HPE,25056.0,741.7,1002.2,405.0,Japan
+475,476,Internet Service (B)China,Lenovo,38400.0,740.4,1536.0,,China
+476,477,University of FloridaUnited States,DellEMC,29184.0,738.1,1074.0,384.0,United States
+477,478,LASG/Institute of Atmospheric Physics CASChina,Sugon,24912.0,738.0,996.5,540.0,China
+478,479,Service Provider TChina,Lenovo,38400.0,734.8,1413.1,,China
+479,480,GovernmentChina,Sugon,35840.0,734.7,1490.9,576.0,China
+480,481,Manufacturing Company BGermany,HuaweiTechnologiesCo.Ltd.,27960.0,733.9,984.2,336.0,Germany
+481,482,Internet CompanyChina,Sugon,44800.0,733.7,1505.3,650.0,China
+482,483,GovernmentChina,Sugon,14400.0,731.2,1236.2,400.0,China
+483,484,Information Technology Company (P)China,HPE,34896.0,731.2,1228.3,,China
+484,485,Telecom CompanyChina,Sugon,40320.0,730.7,1483.8,504.0,China
+485,486,Internet Service AChina,Inspur,15640.0,730.1,1085.6,225.0,China
+486,487,Internet CompanyChina,Sugon,40000.0,725.0,1472.0,990.0,China
+487,488,Internet Company AChina,Lenovo,36864.0,721.1,1474.6,,China
+488,489,Internet Company AChina,Lenovo,36864.0,721.1,1474.6,,China
+489,490,Internet Company AChina,Lenovo,36864.0,721.1,1474.6,,China
+490,491,Internet Company AChina,Lenovo,36864.0,721.1,1474.6,,China
+491,492,Internet Company AChina,Lenovo,36864.0,721.1,1474.6,,China
+492,493,Internet Company AChina,Lenovo,36864.0,721.1,1474.6,,China
+493,494,Internet Company AChina,Lenovo,36864.0,721.1,1474.6,,China
+494,495,Internet Company AChina,Lenovo,36864.0,721.1,1474.6,,China
+495,496,Indian Institute of Tropical MeteorologyIndia,IBM,38016.0,719.2,790.7,790.0,India
+496,497,DOE/SC/Argonne National LaboratoryUnited States,IBM,65536.0,715.6,838.9,329.0,United States
+497,498,EDF R&DFrance,IBM,65536.0,715.6,838.9,329.0,France
+498,499,SOSCIP/LKSAVI/University of TorontoCanada,IBM,65536.0,715.6,838.9,329.0,Canada
+499,500,Swiss National Supercomputing Centre (CSCS)Switzerland,IBM,65536.0,715.6,838.9,329.0,Switzerland
